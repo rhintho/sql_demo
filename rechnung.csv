@@ -1,0 +1,16 @@
+rechnung_id,kunde_id,adresse_id,adress_typ,bezahlart,datum,status,rabatt,skonto
+2001,1,1,rechnung,rechnung,2024-01-16 10:00:00.000000,beglichen,0,2
+2002,2,3,rechnung,lastschrift,2024-01-21 09:30:00.000000,beglichen,5,0
+2003,3,4,rechnung,kredit,2024-02-06 11:15:00.000000,gestellt,0,2
+2004,1,1,rechnung,kredit,2024-02-11 14:20:00.000000,offen,0,0
+2005,5,8,rechnung,rechnung,2024-02-16 10:45:00.000000,gestellt,10,2
+2006,5,8,rechnung,lastschrift,2024-03-02 12:00:00.000000,beglichen,0,0
+2007,2,3,rechnung,kredit,2024-03-11 15:30:00.000000,mahnung1,5,2
+2008,6,10,rechnung,kredit,2024-03-16 09:00:00.000000,gestellt,0,0
+2009,3,4,rechnung,rechnung,2024-03-21 13:45:00.000000,offen,0,2
+2010,7,11,rechnung,lastschrift,2024-03-26 11:30:00.000000,offen,0,0
+2011,8,14,rechnung,kredit,2024-04-02 10:15:00.000000,inkasso,15,2
+2012,9,15,rechnung,rechnung,2024-04-06 14:00:00.000000,beglichen,0,2
+2013,9,15,rechnung,kredit,2024-04-11 16:45:00.000000,offen,0,0
+2014,5,8,rechnung,lastschrift,2024-04-16 09:30:00.000000,offen,10,0
+2015,6,10,rechnung,kredit,2024-04-21 12:15:00.000000,gestellt,5,2

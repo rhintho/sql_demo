@@ -1,0 +1,16 @@
+bestellung_id,kunde_id,adresse_id,adress_typ,datum,status
+1001,1,1,rechnung,2024-01-15 10:30:00.000000,angekommen
+1002,2,3,rechnung,2024-01-20 14:15:00.000000,angekommen
+1003,3,4,rechnung,2024-02-05 09:45:00.000000,versendet
+1004,1,1,rechnung,2024-02-10 16:20:00.000000,bezahlt
+1005,4,7,lieferung,2024-02-15 11:00:00.000000,versendet
+1006,5,8,rechnung,2024-03-01 13:30:00.000000,angekommen
+1007,2,3,lieferung,2024-03-10 10:00:00.000000,bezahlt
+1008,6,10,rechnung,2024-03-15 15:45:00.000000,versendet
+1009,3,5,lieferung,2024-03-20 12:30:00.000000,offen
+1010,7,11,rechnung,2024-03-25 14:00:00.000000,bezahlt
+1011,8,14,rechnung,2024-04-01 09:15:00.000000,versendet
+1012,9,15,rechnung,2024-04-05 11:45:00.000000,angekommen
+1013,10,19,lieferung,2024-04-10 16:30:00.000000,offen
+1014,4,6,rechnung,2024-04-15 10:20:00.000000,bezahlt
+1015,5,9,lieferung,2024-04-20 13:00:00.000000,versendet
