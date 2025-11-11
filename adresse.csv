@@ -1,0 +1,51 @@
+adresse_id,strasse,hnr,lkz,plz,ort
+1,Hauptstraße,15,DE,10115,Berlin
+2,Bahnhofstraße,42,DE,80331,München
+3,Marienplatz,8,DE,50667,Köln
+4,Wiener Ring,123,AT,1010,Wien
+5,Linzer Straße,5A,AT,4020,Linz
+6,Bahnhofstrasse,1,CH,8001,Zürich
+7,Rue de Lausanne,45,CH,1201,Genf
+8,Mönckebergstraße,77,DE,20095,Hamburg
+9,Königsallee,92,DE,40212,Düsseldorf
+10,Salzburger Straße,17,AT,5020,Salzburg
+11,Friedrichstraße,200,DE,10117,Berlin
+12,Leopoldstraße,88,DE,80802,München
+13,Kurfürstendamm,156,DE,10709,Berlin
+14,Reeperbahn,23,DE,20359,Hamburg
+15,Zeil,112,DE,60313,Frankfurt am Main
+16,Kirchstraße,34,DE,70173,Stuttgart
+17,Breite Straße,7,DE,01067,Dresden
+18,Augustusplatz,11,DE,04109,Leipzig
+19,Rheinuferstraße,45,DE,40213,Düsseldorf
+20,Schildergasse,65,DE,50667,Köln
+21,Planken,29,DE,68161,Mannheim
+22,Schlossplatz,2,DE,76131,Karlsruhe
+23,Maximilianstraße,13,DE,90403,Nürnberg
+24,Schuhhof,6,DE,28195,Bremen
+25,Johannisstraße,52,DE,99084,Erfurt
+26,Graben,19,AT,1010,Wien
+27,Kärntner Straße,51,AT,1010,Wien
+28,Maria-Theresien-Straße,18,AT,6020,Innsbruck
+29,Herrengasse,16,AT,8010,Graz
+30,Landstraße,49,AT,4020,Linz
+31,Getreidegasse,9,AT,5020,Salzburg
+32,Museumstraße,14,AT,6020,Innsbruck
+33,Hauptplatz,1,AT,8010,Graz
+34,Mariahilfer Straße,88,AT,1070,Wien
+35,Landstraßer Hauptstraße,1B,AT,1030,Wien
+36,Bahnhofstrasse,100,CH,8001,Zürich
+37,Paradeplatz,4,CH,8001,Zürich
+38,Rue du Rhône,62,CH,1204,Genf
+39,Freie Strasse,39,CH,4001,Basel
+40,Kramgasse,49,CH,3011,Bern
+41,Via Nassa,5,CH,6900,Lugano
+42,Poststrasse,26,CH,6300,Zug
+43,Bahnhofplatz,1,CH,6002,Luzern
+44,Marktgasse,9,CH,9000,St. Gallen
+45,Spitalgasse,34,CH,3011,Bern
+46,Am Markt,12,DE,99423,Weimar
+47,Unter den Linden,77,DE,10117,Berlin
+48,Sendlinger Straße,6,DE,80331,München
+49,Neuer Wall,18,DE,20354,Hamburg
+50,Hohe Straße,41,DE,50667,Köln
